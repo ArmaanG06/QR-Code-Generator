@@ -1,0 +1,6 @@
+Package  Version
+-------- -------
+colorama 0.4.6
+pillow   11.0.0
+pip      24.3.1
+qrcode   8.0
